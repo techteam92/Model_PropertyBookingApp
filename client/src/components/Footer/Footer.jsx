@@ -18,7 +18,7 @@ const Footer = () => {
 				<div className="flexColStart f-right">
 					<span className="primaryText">Information</span>
 					<span className="secondaryText" style={{display: "flex", flexDirection: "column", gap: "10px"}}>
-            <span>Egypt, Cairo</span>
+            <span>"", ""</span>
             <span>sniperupwork1214@gmail.com</span>
           </span>
 					<div className="flexCenter f-menu">

@@ -8,12 +8,12 @@ const Contact = () => {
 	return (
 		<div className="contact-page">
 			<div className="contact-card">
-				<img
+				{/* <img
 					src={profileImg}
-					alt="Ahmed Maher Algohary profile"
+					alt=""" profile"
 					className="contact-profile-img"
-				/>
-				<h1 className="contact-name">Ahmed Maher Algohary</h1>
+				/> */}
+				<h1 className="contact-name">""</h1>
 				<span className="contact-title">
 					Software Engineer | Full Stack Developer
 				</span>
